@@ -6,6 +6,7 @@ from folium.plugins import FastMarkerCluster
 import matplotlib.pyplot as plt
 from PIL import Image
 import os
+import os
 import numpy as np 
 import pandas as pd
 
