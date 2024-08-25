@@ -198,7 +198,7 @@ def get_performance_metrics(y_true: np.ndarray, y_scores: np.ndarray) -> List:
 
     
     
-d
+
 
 def display_confusion_matrix(y_labels: np.ndarray, y_predict_prob_1: np.ndarray):
     '''Display a confusion matrix
